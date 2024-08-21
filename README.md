@@ -20,13 +20,15 @@ Este projeto demonstra como construir uma mini casa automatizada com iluminaçã
 
 ## 🛠 Materiais Utilizados
 
-- **ESP8266**
-- **LEDs** (para cada cômodo: sala, cozinha, quarto)
-- **Resistores** (compatíveis com os LEDs)
-- **Fios** para conexão
-- **Papelão** para a estrutura da maquete
-- **Cola quente** para montagem
-- **Decorações variadas** (papel colorido, mini móveis, etc.)
+| Material          | Descrição                                           |
+|-------------------|-----------------------------------------------------|
+| **ESP8266**       | Placa principal para controle e automação.         |
+| **LEDs**          | LEDs para iluminação dos cômodos.                  |
+| **Resistores**    | Resistores para proteção dos LEDs.                 |
+| **Fios**          | Para conexão dos componentes.                      |
+| **Papelão**       | Para construir a estrutura da maquete.             |
+| **Cola quente**   | Para montagem da estrutura.                        |
+| **Decorações**    | Papel colorido, mini móveis, etc.                  |
 
 ## 📝 Passo a Passo de Construção
 
