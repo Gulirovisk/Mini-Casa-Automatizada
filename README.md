@@ -88,6 +88,10 @@ Este projeto demonstra como construir uma mini casa automatizada com iluminaçã
 - Integrar com outros assistentes virtuais, como Alexa e Google Assistant.
 - Implementar controle remoto via aplicativo móvel.
 
+## 🔧 Código
+
+O código completo para o ESP8266 está disponível no arquivo [automacao.ino](Mini-Casa-Automatizada.ino).
+
 ## 📄 Licença
 
 Este projeto está licenciado sob os termos da [MIT License](LICENSE).
