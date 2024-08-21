@@ -20,15 +20,15 @@ Este projeto demonstra como construir uma mini casa automatizada com iluminaçã
 
 ## 🛠 Materiais Utilizados
 
-| Material          | Descrição                                           |
-|-------------------|-----------------------------------------------------|
-| **ESP8266**       | Placa principal para controle e automação.         |
-| **LEDs**          | LEDs para iluminação dos cômodos.                  |
-| **Resistores**    | Resistores para proteção dos LEDs.                 |
-| **Fios**          | Para conexão dos componentes.                      |
-| **Papelão**       | Para construir a estrutura da maquete.             |
-| **Cola quente**   | Para montagem da estrutura.                        |
-| **Decorações**    | Papel colorido, mini móveis, etc.                  |
+| Material        | Descrição                                           |
+|-----------------|-----------------------------------------------------|
+| **ESP8266**     | Placa principal para controle e automação.         |
+| **LEDs**        | LEDs para iluminação dos cômodos.                  |
+| **Resistores**  | Resistores para proteção dos LEDs.                 |
+| **Fios**        | Para conexão dos componentes.                      |
+| **Papelão**     | Para construir a estrutura da maquete.             |
+| **Cola quente** | Para montagem da estrutura.                        |
+| **Decorações**  | Papel colorido, mini móveis, etc.                  |
 
 ## 📝 Passo a Passo de Construção
 
@@ -83,6 +83,19 @@ Este projeto demonstra como construir uma mini casa automatizada com iluminaçã
 ### 7. **Testando e Utilizando**
    - Após a configuração, você poderá controlar as luzes da mini casa usando seu assistente virtual ou qualquer navegador acessando `http://192.168.1.184`.
    - Teste todos os comandos para garantir que estão funcionando conforme esperado e faça ajustes no código, se necessário.
+
+## 💻 Exemplos de Comandos HTTP
+
+Aqui estão alguns exemplos de comandos HTTP que você pode usar com o assistente virtual:
+
+- **Ligar a luz da sala**: `http://192.168.1.184/liga_sala`
+- **Desligar a luz da cozinha**: `http://192.168.1.184/desliga_cozinha`
+- **Ligar todas as luzes**: `http://192.168.1.184/liga_todas`
+
+## 🔗 Links Úteis
+
+- [Documentação do ESP8266](https://www.espressif.com/en/support/download/documents)
+- [Tutorial sobre o Arduino IDE](https://www.arduino.cc/en/Guide)
 
 ## 🌟 Futuras Melhorias
 
