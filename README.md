@@ -43,7 +43,7 @@ Este repositório contém o código e as instruções para a construção de uma
 
 ## 🔧 Código
 
-O código completo para o ESP8266 está disponível no arquivo [automacao.ino](caminho/para/arquivo.ino).
+O código completo para o ESP8266 está disponível no arquivo [automacao.ino](Mini-Casa-Automatizada.ino).
 
 ### **Resumo do Código**
 - Configura os pinos dos LEDs como saídas.
