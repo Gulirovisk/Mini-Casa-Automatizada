@@ -7,7 +7,7 @@ Este repositório contém o código e as instruções para a construção de uma
 
 ![Visão Geral da Maquete](CASA.jpeg)
 *Visão Geral da Mini Casa*
-
+<img src="CASA.jpeg" alt="Visão Geral da Maquete" width="300"/>
 ![Circuito e Componentes](Circuito.jpeg)
 *Circuito com ESP8266, LEDs e resistores*
 
