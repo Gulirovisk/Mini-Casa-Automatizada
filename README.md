@@ -5,9 +5,11 @@ Este repositório contém o código e as instruções para a construção de uma
 
 ## 📷 Fotos da Maquete
 *Figura 1: Visão Geral da Mini Casa*
+
 <img src="CASA.jpeg" alt="Visão Geral da Maquete" width="300"/>
 
 *Figura 2: Circuito com ESP8266, LEDs e resistores*
+
 <img src="Circuito.jpeg" alt="Circuito e Componentes" width="300"/>
 
 ## 🛠 Materiais Utilizados
