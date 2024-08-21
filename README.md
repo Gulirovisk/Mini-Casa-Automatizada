@@ -96,6 +96,9 @@ Aqui estão alguns exemplos de comandos HTTP que você pode usar com o assistent
 
 - [Documentação do ESP8266](https://www.espressif.com/en/support/download/documents)
 - [Tutorial sobre o Arduino IDE](https://www.arduino.cc/en/Guide)
+- [ESP8266WiFi no GitHub](https://github.com/esp8266/Arduino/tree/master/libraries/ESP8266WiFi)
+- [WiFiManager no GitHub](https://github.com/tzapu/WiFiManager)
+
 
 ## 🌟 Futuras Melhorias
 
