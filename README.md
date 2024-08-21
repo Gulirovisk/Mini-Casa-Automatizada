@@ -6,7 +6,8 @@ Este repositório contém o código e as instruções para a construção de uma
 ## 📷 Fotos da Maquete
 
 <img src="CASA.jpeg" alt="Visão Geral da Maquete" width="300"/>
-![Circuito e Componentes](Circuito.jpeg)
+
+<img src="Circuito.jpeg" alt="Circuito e Componentes" width="300"/>
 *Circuito com ESP8266, LEDs e resistores*
 
 ## 🛠 Materiais Utilizados
