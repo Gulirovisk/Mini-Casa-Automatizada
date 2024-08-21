@@ -26,7 +26,7 @@ Este repositório contém o código e as instruções para a construção de uma
 ### 1. **Construção da Estrutura**
    - A maquete foi construída usando papelão para criar as paredes e divisões dos cômodos.
    - Utilizamos cola quente para fixar as paredes e dar estrutura à casa.
-   - A decoração foi feita com papel colorido e pequenos itens decorativos.
+   - A decoração foi feita com papel na cor branca e pequenos itens decorativos parecidos com a grama.
 
 ### 2. **Montagem do Circuito**
    - Conecte os LEDs e os resistores aos pinos do ESP8266 conforme o código:
