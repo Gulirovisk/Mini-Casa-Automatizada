@@ -4,14 +4,12 @@
 Este repositório contém o código e as instruções para a construção de uma maquete de uma mini casa automatizada usando o ESP8266. A iluminação dos cômodos pode ser controlada individualmente ou em conjunto via comandos de voz utilizando a assistente virtual Siri.
 
 ## 📷 Fotos da Maquete
-
+*Figura 1: Visão Geral da Mini Casa*
 <img src="CASA.jpeg" alt="Visão Geral da Maquete" width="300"/>
 
-*Figura 1: Visão Geral da Mini Casa*
-
+*Figura 2: Circuito com ESP8266, LEDs e resistores*
 <img src="Circuito.jpeg" alt="Circuito e Componentes" width="300"/>
 
-*Figura 2: Circuito com ESP8266, LEDs e resistores*
 ## 🛠 Materiais Utilizados
 
 - **ESP8266**
