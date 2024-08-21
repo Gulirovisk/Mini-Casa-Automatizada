@@ -20,15 +20,15 @@ Este projeto demonstra como construir uma mini casa automatizada com iluminaçã
 
 ## 🛠 Materiais Utilizados
 
-| Material        | Descrição                                           |
-|-----------------|-----------------------------------------------------|
-| **ESP8266**     | Placa principal para controle e automação.         |
-| **LEDs**        | LEDs para iluminação dos cômodos.                  |
-| **Resistores**  | Resistores para proteção dos LEDs.                 |
-| **Fios**        | Para conexão dos componentes.                      |
-| **Papelão**     | Para construir a estrutura da maquete.             |
-| **Cola quente** | Para montagem da estrutura.                        |
-| **Decorações**  | Papel colorido, mini móveis, etc.                  |
+| Material        | Descrição                                                 |
+|-----------------|---------------------------------------------------------- |
+| **ESP8266**     | Placa principal para controle e automação.                |
+| **LEDs**        | LEDs para iluminação dos cômodos.                         |
+| **Resistores**  | Resistores para proteção dos LEDs, de 330Ω.               |
+| **Fios**        | Para conexão dos componentes, foi usado conectores jumper.|
+| **Papelão**     | Para construir a estrutura da maquete.                    |
+| **Cola quente** | Para montagem da estrutura.                               |
+| **Decorações**  | Papel colorido, garrafa pet, grama falsa, etc.            |
 
 ## 📝 Passo a Passo de Construção
 
@@ -43,14 +43,17 @@ Este projeto demonstra como construir uma mini casa automatizada com iluminaçã
      - **Cozinha:** GPIO4 (D2)
      - **Quarto:** GPIO2 (D4)
    - Faça as conexões com os fios, garantindo que cada LED tenha um resistor para evitar sobrecarga.
+   - Foi usado o GND em comum para os LEDs.
+   - Para a alimentação do ESP8266, está sendo usado o próprio cabo de passagem de dados.
 
 ### 3. **Configuração do Software**
    - O código do ESP8266 foi escrito em C++ usando o Arduino IDE.
+   - Utilizado bibliotecas onde pode ser encontradas na documentação.
    - O ESP8266 cria um servidor web que permite o controle das luzes via HTTP.
    - Os comandos podem ser enviados pela Siri, configurada para enviar requisições HTTP ao ESP8266.
+   - Utilizado o APP "atalhos" do IOS, para fazer essa requisição HTTP.
 
 ## 🔧 Funcionalidades
-
 - Controle de iluminação da sala, cozinha e quarto de forma individual ou coletiva.
 - Integração com assistente virtual para comandos de voz.
 - Acesso via navegador a uma interface web simples para controle manual.
@@ -94,6 +97,7 @@ Aqui estão alguns exemplos de comandos HTTP que você pode usar com o assistent
 
 ## 🔗 Links Úteis
 
+- [Video inspiração da casa](https://www.youtube.com/watch?v=LZ9tM4nqVOM&t=263s&pp=ygUVbWluaSBjYXNhIGRlIHBhcGVsw6Nv)
 - [Documentação do ESP8266](https://www.espressif.com/en/support/download/documents)
 - [Tutorial sobre o Arduino IDE](https://www.arduino.cc/en/Guide)
 - [ESP8266WiFi no GitHub](https://github.com/esp8266/Arduino/tree/master/libraries/ESP8266WiFi)
